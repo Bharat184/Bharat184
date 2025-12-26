@@ -44,7 +44,3 @@ My focus is on writing clean, efficient code and solving complex engineering cha
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
 
 ---
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharat184&show_icons=true&theme=radical)
